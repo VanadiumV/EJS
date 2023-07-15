@@ -2,6 +2,7 @@
 packages 
 
 1.cd Desktop
+</br>
 2.cd Web\ Dev /  -> for space in a string
 3.cd todolist
 4.touch app.js index.html
